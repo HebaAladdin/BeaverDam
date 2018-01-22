@@ -25,7 +25,7 @@ For example:
 1. We need you to draw an accurate box around each person and ball you see in the video
 2. We recommend you draw the persons in the back before drawing the persons in the front 
 3. If you can't see the person in the frame *clearly* then don't draw any rectangles
-5. If you can *clearly* see only half body parts of the person the draw a rectangle on it 
+5. If you can _clearly_ see only half body parts of the person the draw a rectangle on it 
 
 ## Bonus Payment
 1. The time to complete one HIT will depend on the number of people in the frame and the amount of movement.
