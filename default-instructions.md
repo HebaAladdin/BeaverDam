@@ -24,7 +24,7 @@ For example:
 ## Detailed Instructions
 1. We need you to draw an accurate box around each person and ball you see in the video
 2. We recommend you start drawing the persons in the back before drawing the persons in the front 
-3. If you can't see the person in the frame **Clearly** then don't draw any rectangles
+3. If you can't see the person or the ball in the image **Clearly** then don't draw any rectangles
 5. If you can **Clearly** see only half body parts of the person the draw a rectangle on it 
 
 ## How accurate do you need to be?
