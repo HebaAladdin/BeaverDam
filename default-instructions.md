@@ -11,11 +11,11 @@ Your task is to accurately draw rectangles around people and balls in each image
 
 For example:
 ### Good:
-![](https://raw.githubusercontent.com/wiki/xysense/BeaverDam/images/good_1.png)
-![](https://raw.githubusercontent.com/wiki/xysense/BeaverDam/images/good_2.png)
+![]()
+![]()
 ### Bad:
-![](https://raw.githubusercontent.com/wiki/xysense/BeaverDam/images/bad_1.png)
-![](https://raw.githubusercontent.com/wiki/xysense/BeaverDam/images/bad_2.png)
+![]()
+![]()
 
 
 ## Keyboard Shortcuts
