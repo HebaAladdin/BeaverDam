@@ -10,11 +10,13 @@ Your task is to accurately draw rectangles around people and balls in each image
 
 
 For example:
+
 Example 1:
 ### Good:
 ![](https://raw.githubusercontent.com/HebaAladdin/BeaverDam/master/example1_1.png)
 ### Bad:
 ![](https://raw.githubusercontent.com/HebaAladdin/BeaverDam/master/example1_2.png)
+
 Example 2:
 ### Good:
 
