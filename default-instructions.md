@@ -1,6 +1,6 @@
-Welcome to our Video Mapping Tool.
+Welcome to our Image Annotation Tool.
 
-Your task is to accurately draw rectangles around people in each video. We need this so that we can train a computer to understand people's location indoors from a fisheye lenses.
+Your task is to accurately draw rectangles around people and balls in each image. We need this so that we can train a computer to detect people's and ball's presence for a soccer training application.
 
 ## Quick Instructions
 1. Draw a box accurately around a person (covering every part you can see)
