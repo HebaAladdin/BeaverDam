@@ -10,13 +10,15 @@ Your task is to accurately draw rectangles around people and balls in each image
 
 
 For example:
+Example 1:
 ### Good:
-![](https://raw.githubusercontent.com/HebaAladdin/BeaverDam/Screenshot%20from%202018-01-22%2015-05-31.png)
-![](https://github.com/HebaAladdin/BeaverDam/blob/master/Screenshot%20from%202018-01-22%2015-26-57.png)
+![](https://raw.githubusercontent.com/HebaAladdin/BeaverDam/master/example1_1.png)
 ### Bad:
-![](https://github.com/HebaAladdin/BeaverDam/blob/master/Screenshot%20from%202018-01-22%2015-07-55.png)
-![](https://github.com/HebaAladdin/BeaverDam/blob/master/Screenshot%20from%202018-01-22%2015-36-20.png)
+![](https://raw.githubusercontent.com/HebaAladdin/BeaverDam/master/example1_2.png)
+Example 2:
+### Good:
 
+### Bad:
 
 ## Keyboard Shortcuts
 - `d` or 'delete' to delete selected rectangle
