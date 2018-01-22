@@ -11,7 +11,7 @@ Your task is to accurately draw rectangles around people and balls in each image
 
 For example:
 ### Good:
-![](https://github.com/HebaAladdin/BeaverDam/blob/master/Screenshot%20from%202018-01-22%2015-05-31.png)
+![](https://raw.githubusercontent.com/HebaAladdin/BeaverDam/Screenshot%20from%202018-01-22%2015-05-31.png)
 ![](https://github.com/HebaAladdin/BeaverDam/blob/master/Screenshot%20from%202018-01-22%2015-26-57.png)
 ### Bad:
 ![](https://github.com/HebaAladdin/BeaverDam/blob/master/Screenshot%20from%202018-01-22%2015-07-55.png)
