@@ -19,8 +19,10 @@ Example 1:
 
 Example 2:
 ### Good:
-
+![](https://raw.githubusercontent.com/HebaAladdin/BeaverDam/master/ex2_1.png)
 ### Bad:
+![](https://raw.githubusercontent.com/HebaAladdin/BeaverDam/master/ex2_2.png)
+
 
 ## Keyboard Shortcuts
 - `d` or 'delete' to delete selected rectangle
